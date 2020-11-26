@@ -4,7 +4,7 @@
 
          npm install 
 
-2.  create `.env` file in the root folder using `.env.example` file. 
+2.  create `.env` file in the root folder using `.env.example` file. and set port which you want to run 
 3.  run the following command for starting the project
         
         npm start
